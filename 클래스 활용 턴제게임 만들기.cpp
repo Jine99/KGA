@@ -10,7 +10,7 @@
 using namespace std;
 class Monster;
 
-
+// 수정 사항
 
 class Monster
 {
